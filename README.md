@@ -1,12 +1,15 @@
 <h1 align="center">Ozan İsmail Çolhak</h1>
 
 <p align="center">
-  <b>Cyber Security</b> · Phishing Protection · Threat Analysis
+  <b>Cyber Security</b>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ozan-ismail-çolhak-119003313">
+  <a href="https://www.linkedin.com/in/ozan-ismail-çolhak-119003313">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@ocolhak4">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">
   </a>
   <a href="mailto:ocolhak4@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=flat">
