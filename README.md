@@ -1,67 +1,57 @@
-<h1 align="center">Hi 👋 I'm Ozan İsmail Çolhak</h1>
-<h3 align="center">Cyber Security | Offensive Security | Reverse Engineering</h3>
+<h1 align="center">Ozan İsmail Çolhak</h1>
+<h3 align="center">Cyber Security</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozancolhak">LinkedIn</a> •
-  <a href="https://medium.com/@ozancolhak">Medium</a> •
+  <a href="https://www.linkedin.com/in/ozancolhak">LinkedIn</a> ·
+  <a href="https://medium.com/@ozancolhak">Medium</a> ·
   <a href="mailto:ozan@proton.me">ProtonMail</a>
 </p>
 
 ---
 
-## 🛡️ About Me
+## 🛡️ About
 
-- 🎓 **Cyber Security Analyst & Operator** student  
-- 🔍 Focused on **Offensive Security, Web & Mobile AppSec**
-- 🧪 Active in **CTFs, vulnerability research, exploit development**
-- 🧠 Interested in **Reverse Engineering & Malware Analysis**
-- 🚀 Building hands-on security tooling & labs
+I am a **Cyber Security student** focused on practical security problems and real-world threats.
 
----
+My main area of interest is **Phishing Protection**, including:
+- phishing detection and analysis  
+- malicious domain & URL investigation  
+- user-focused security awareness  
+- threat analysis and reporting  
 
-## 🧰 Technical Arsenal
-
-### Core Skills
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-orange?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
-
-### Security Domains
-![Web Security](https://img.shields.io/badge/Web_Security-blue?style=for-the-badge)
-![Mobile Security](https://img.shields.io/badge/Mobile_Security-blueviolet?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF-yellow?style=for-the-badge)
+I aim to build **practical, defensive security solutions** that reduce real user risk.
 
 ---
 
-## 🚀 Featured Projects
+## 🔐 Areas of Interest
 
-- 🔓 **Web Exploitation Labs** – real-world attack simulations  
-- 📱 **Mobile App Security Research** – Android reversing & Frida
-- ⚙️ **Custom Security Tools** – scanners, payloads, automation
-
-> (Buraya repo linklerini ekleyeceğiz)
-
----
-
-## 📜 Certifications
-
-| Certification | Organization | Focus |
-|---------------|-------------|-------|
-| Mobile Security | BTK | Mobile Pentesting |
-| Threat Hunting | BTK | Cyber Intelligence |
+- Cyber Security  
+- Phishing Protection  
+- Threat Analysis  
+- Web Security Fundamentals  
+- Security Awareness & Prevention  
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Technical Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozancolhak&show_icons=true&theme=tokyonight" />
-</p>
+- Python (security scripting & analysis)
+- Basic web technologies (HTTP, DNS, domains)
+- Security tooling & automation
+- OSINT for phishing & fraud analysis
 
 ---
 
-## ☕ Fun Fact
+## 🚀 Selected Work
 
-> “Break it to understand it. Understand it to secure it.”
+- Phishing analysis experiments  
+- Security-related scripts & tooling  
+- Documentation & write-ups on cyber threats  
+
+> Repositories focus on learning, analysis, and defensive security practices.
+
+---
+
+## 🌍 Location
+
+Türkiye
