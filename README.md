@@ -1,65 +1,61 @@
-<h1 align="center">
-  Ozan İsmail Çolhak
-</h1>
+<h1 align="center">Ozan İsmail Çolhak</h1>
 
 <p align="center">
   <b>Cyber Security</b> · Phishing Protection · Threat Analysis
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozancolhak">
+  <a href="https://www.linkedin.com/in/ozan-ismail-çolhak">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@ozancolhak">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">
-  </a>
-  <a href="mailto:ozan@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white">
+  <a href="mailto:ocolhak4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat">
   </a>
 </p>
 
 ---
 
-### 🛡️ Focus
+### 🛡️ What I Focus On
 
-I focus on **defensive cyber security** with a strong interest in  
-**phishing protection and real-world threat analysis**.
+I work in **defensive cyber security**, with a strong focus on  
+**phishing detection, threat analysis, and user-facing security risks**.
 
-My work is centered around:
-- detecting and analyzing phishing campaigns  
-- investigating malicious domains and URLs  
-- understanding attacker techniques from a defensive perspective  
-- improving user-facing security awareness  
-
+My interests include:
+- phishing campaign analysis & detection  
+- malicious domain and URL investigation  
+- web security fundamentals  
+- incident response & log analysis  
+- security awareness and prevention  
 ---
 
-### 🔐 Security Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Phishing%20Protection-2E7D32?style=flat">
-  <img src="https://img.shields.io/badge/Threat%20Analysis-1565C0?style=flat">
-  <img src="https://img.shields.io/badge/Web%20Security-6A1B9A?style=flat">
-  <img src="https://img.shields.io/badge/OSINT-455A64?style=flat">
-</p>
-
----
-
-### 🧰 Technical Direction
+### 🧰 Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Security%20Automation-263238?style=flat">
-  <img src="https://img.shields.io/badge/Domain%20Analysis-37474F?style=flat">
-  <img src="https://img.shields.io/badge/Threat%20Research-1B5E20?style=flat">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat">
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat">
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=flat">
 </p>
 
 ---
 
-### 🚀 What You’ll Find Here
+### 🚀 Selected Projects
 
-- phishing-related experiments & scripts  
-- threat analysis notes and tooling  
-- security-focused documentation  
-- learning-driven defensive projects  
+- **CyberScenarios**  
+  Interactive cyber crisis simulation platform for incident response  
+  and decision-based security training.
 
-> Clean, practical repositories focused on **real problems**, not hype.
+- **Secure Appointment System**  
+  Python (Flask) based system focusing on authentication security,  
+  input validation, session management, and role-based access control.
+
+> Repositories emphasize **learning, analysis, and real defensive use cases**.
+
+---
+
+### 🎓 Background
+
+- Cyber Security Analyst & Operator — *Ege University*  
+- Computer Programming — *Istanbul University*
