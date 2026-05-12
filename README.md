@@ -82,7 +82,6 @@ ozan = {
 
 <div align="center">
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozancolhak&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
