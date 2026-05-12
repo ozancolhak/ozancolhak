@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Ozan%20İsmail%20Çolhak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20&descAlignY=58&descColor=93c5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Ozan%20İsmail%20Çolhak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cyber%20SecurityC%20&descAlignY=58&descColor=93c5fd" width="100%"/>
 </div>
 
 <!-- Badges -->
