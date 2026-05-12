@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Ozan%20İsmail%20Çolhak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Python%20Developer&descAlignY=58&descColor=93c5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Ozan%20İsmail%20Çolhak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20&descAlignY=58&descColor=93c5fd" width="100%"/>
 </div>
 
 <!-- Badges -->
@@ -81,7 +81,6 @@ ozan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ozancolhak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozancolhak&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
